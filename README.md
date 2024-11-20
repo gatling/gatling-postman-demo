@@ -1,6 +1,7 @@
 # Gatling Postman - JavaScript and TypeScript demo projects
 
-A simple showcase of JavaScript and TypeScript NPM projects using Gatling Postman. Please also check out the [TODO doc link](https://docs.gatling.io/todo/) in the Gatling documentation.
+A simple showcase of JavaScript and TypeScript NPM projects using Gatling Postman.
+Please also check out the [Gatling Postman reference documentation](https://docs.gatling.io/reference/script/protocols/postman/).
 
 ## Prerequisites
 
@@ -41,6 +42,5 @@ npm run format # Format code with prettier
 npm run check # TypeScript project only, type check but don't build or run
 npm run build # Build project but don't run
 npm run computerdatabase # Run the included computerdatabase simulation
-npm run recorder # Starts the Gatling Recorder ()
 ```
 
