@@ -6,7 +6,7 @@
   "main": "target/bundle",
   "dependencies": {
     "@gatling.io/core": "3.13.2",
-    "@gatling.io/http": "3.13.2",
+    "@gatling.io/http": "3.13.103",
     "@gatling.io/postman": "3.13.2"
   },
   "devDependencies": {
