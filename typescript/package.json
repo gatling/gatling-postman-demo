@@ -1,5 +1,5 @@
 {
-  "name": "gatling-ts-demo",
+  "name": "gatling-postman-ts-demo",
   "version": "3.13.2",
   "private": true,
   "type": "module",
