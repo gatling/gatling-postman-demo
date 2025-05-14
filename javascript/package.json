@@ -18,6 +18,6 @@
     "clean": "rimraf target",
     "format": "prettier --write \"**/*.js\"",
     "build": "gatling build",
-    "computerdatabase": "gatling run --simulation computerdatabase"
+    "basicSimulation": "gatling run --simulation basicSimulation"
   }
 }
