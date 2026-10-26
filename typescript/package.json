@@ -17,6 +17,7 @@
   "scripts": {
     "clean": "rimraf target",
     "format": "prettier --write \"**/*.ts\"",
+    "format-check": "prettier --check \"**/*.ts\"",
     "check": "tsc --noEmit",
     "build": "tsc --noEmit && gatling build --typescript",
     "basicSimulation": "tsc --noEmit && gatling run --typescript --simulation basicSimulation"
