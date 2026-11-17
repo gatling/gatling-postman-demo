@@ -16,6 +16,8 @@ updates:
           - "@gatling.io/*"
     cooldown:
       default-days: 7
+      exclude:
+        - "@gatling.io/*"
   - package-ecosystem: "github-actions"
     directory: "/"
     commit-message:
